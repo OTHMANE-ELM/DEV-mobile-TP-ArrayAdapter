@@ -1,4 +1,4 @@
-package com.example.tp;
+package com.example.arrayadapter;
 
 import android.content.Intent;
 import android.os.Bundle;
